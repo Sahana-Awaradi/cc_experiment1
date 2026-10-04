@@ -277,7 +277,8 @@ This indicates that the VMware Workstation VM experienced larger latency spikes 
 
 The following graph compares the CPU throughput of the Type-1 and Type-2 hypervisors using the Sysbench CPU benchmark.
 
-![Hypervisor Performance Comparison](screenshots/comparison/01-hypervisor-performance-comparison.png)
+<img width="2664" height="1768" alt="image" src="https://github.com/user-attachments/assets/92458724-e558-4295-9c8d-8e29dc15c4f4" />
+
 
 ### Graph Observation
 
